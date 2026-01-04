@@ -156,8 +156,8 @@ CREATE TABLE page_views (
 - ✅ Autenticação JWT com secret seguro
 - ✅ Validação de inputs nas APIs
 - ✅ Queries parametrizadas (proteção contra SQL injection)
-- ✅ HTTPS obrigatório em produção
-- ✅ Rate limiting via Vercel (built-in)
+<!-- - ✅ HTTPS obrigatório em produção
+- ✅ Rate limiting via Vercel (built-in) -->
 
 <!-- ## 🗺️ Roadmap
 
