@@ -4,7 +4,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?logo=typescript)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Neon-336791?logo=postgresql)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-4.0-38B2AC?logo=tailwind-css)
-![License](https://img.shields.io/badge/license-MIT-green)
+<!-- ![License](https://img.shields.io/badge/license-MIT-green) -->
 
 
 Landing page moderna para a marca de moda feminina **DonaS**, com painel administrativo completo para gerenciamento de produtos.
